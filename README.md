@@ -12,8 +12,6 @@ El programa permite:
 - Ordenar los registros.
 - Obtener estadísticas básicas.
 - Guardar los cambios realizados en el archivo CSV.
-Integrantes: Jacqueline Keller, Lautaro Lavallen
-Comisión 24
 
 Requisitos
 Python 3.x
@@ -74,7 +72,10 @@ PDF Documentacion_Trabajo_Integrador.pdf que se encuentra en el repositorio.
 Video demostrativo
 
 Link al video explicativo:
-[Agregar enlace]
+(https://www.youtube.com/watch?v=gDZR_3ztabA)
 
+Integrantes: Jacqueline Keller, Lautaro Lavallen
+Comisión 24
+Grupo 264
 Trabajo Integrador - Programación I
 Junio, 2026
